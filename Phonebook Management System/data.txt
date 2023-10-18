@@ -1,0 +1,5 @@
+Employee_Id      Employee_FName       Employee_LName     Contact Number
+2344                 Ahmad                Kamal                 03349178539
+2349                 Arslan                Khan                 03236781234
+2357                 Majid                Ahmed                 03219012785
+2372                 Sarah                 Ali                  03348912356
