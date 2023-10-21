@@ -2,10 +2,14 @@
 Write a simple functions-based C++ program to design a phonebook using file handling.
 A company tries to keep phone numbers of its employees in a phone book along with the 4-digit numeric employee id, their full name and their11 digit contact number as follows:
 
-Employee_Id               Employee_FName                         Employee_LName           Contact Number
+Employee_Id-               Employee_FName-                         Employee_LName-           Contact Number
+
 2344                          Ahmad                                   Kamal                 03349178539
+
 2349                          Arslan                                   Khan                 03236781234
+
 2357                          Majid                                    Ahmed                03219012785
+
 2372                          Sarah                                    Ali                  03348912356
 
 Design a menu driven program to perform the following operations using functions for each:
